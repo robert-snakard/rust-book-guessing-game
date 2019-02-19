@@ -1,0 +1,7 @@
+[package]
+name = "rust_book_guessing_game"
+version = "0.1.0"
+authors = ["Robert <robert-snakard@github.com>"]
+edition = "2018"
+
+[dependencies]
